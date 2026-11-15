@@ -5,3 +5,8 @@
     "logo": "https://github.com/titaniumnetwork-dev/Ultraviolet/blob/main/uv.png?raw=true",
     "keywords": ["tomp", "ultraviolet"]
 }
+{
+  "expo": {
+    "platforms": ["ios", "android", "web"]
+  }
+}
