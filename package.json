@@ -1,8 +1,9 @@
 {
-  "dependencies": {
-    "@tomphttp/bare-server-node": "^1.0.2-beta-readme2",
-    "bare-server-node": "github:tomphttp/bare-server-node",
-    "node-static": "^0.7.11"
+ "dependencies": {
+  "react-native-web": "~0.19.13",
+  "react-dom": "19.0.0"
+}
+
   },
   "name": "uv-app",
   "version": "1.0.0",
