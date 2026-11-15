@@ -18,9 +18,4 @@
   "author": "",
   "license": "GPL-3.0-or-later"
 }
-git clone https://github.com/Dldelfmelfmew/ari-0777.git
-cd ari-0777
-npx expo install react-native-web react-dom
-git add app.json package.json package-lock.json
-git commit -m "Enable web platform for Expo export"
-git push origin main
+
